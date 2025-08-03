@@ -2,4 +2,4 @@ Hi, Im Nikita!
 
 I know c++.
 
-Currently I am learning graphic programming.
+Currently I am learning graphics programming.
